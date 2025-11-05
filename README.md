@@ -5,11 +5,6 @@
 
 ---
 
-## Live Demo / دموی زنده
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
-
-[Click here to try the app online](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
-
 
 # ToDo App / اپلیکیشن ToDo
 
@@ -33,6 +28,12 @@ A simple task management application (To-Do List) built with Streamlit and SQLit
   **Undo حذف**: امکان برگرداندن آخرین وظیفه حذف‌شده با استفاده از session_state در Streamlit.
 - **SQLite Database**: Data storage in `yek.db` file with `Task` and `deleted_tasks` tables.  
   **دیتابیس SQLite**: ذخیره‌سازی داده‌ها در فایل `yek.db` با جداول `Task` و `deleted_tasks`.
+
+## Live Demo / دموی زنده
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
+
+[Click here to try the app online](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
+
 
 ## Prerequisites / پیش‌نیازها
 - Python 3.8 or higher  
