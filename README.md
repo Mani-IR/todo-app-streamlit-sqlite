@@ -4,6 +4,13 @@
 ![License](https://img.shields.io/github/license/Mani-IR/todo-app-streamlit-sqlite?style=for-the-badge)
 
 ---
+
+## Live Demo / دموی زنده
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
+
+[Click here to try the app online](https://mani-ir-todo-app-streamlit-sqlite.streamlit.app)
+
+
 # ToDo App / اپلیکیشن ToDo
 
 A simple task management application (To-Do List) built with Streamlit and SQLite database. This project is designed for Python programming practice and includes basic features such as adding, viewing, editing, deleting, and archiving tasks. It also includes reminders for overdue, today's, and tomorrow's tasks, and an undo feature for the last deleted task.  
