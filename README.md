@@ -6,6 +6,7 @@
 ---
 ## Demo / دمو
 <image-card alt="App Demo" src="demo.png" ></image-card>
+![ToDo App Demo](demo.png)
 
 # ToDo App / اپلیکیشن ToDo
 
