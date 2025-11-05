@@ -4,7 +4,8 @@
 ![License](https://img.shields.io/github/license/Mani-IR/todo-app-streamlit-sqlite?style=for-the-badge)
 
 ---
-
+## Demo / دمو
+<image-card alt="App Demo" src="demo.png" ></image-card>
 
 # ToDo App / اپلیکیشن ToDo
 
